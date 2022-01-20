@@ -1,2 +1,5 @@
 # oval_news
-Evaluations on bird data, mainly from ornitho.de.
+Evaluations on bird data, coming from www.ornitho.de.
+Interesting, funny and serios stuff.
+
+
