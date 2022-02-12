@@ -1,4 +1,4 @@
-# oval_news
+# ornitho news
 Auswertungen von Beobachtungsdaten des Internetportals ornitho.de im Landkreis Starnberg.
 
 
