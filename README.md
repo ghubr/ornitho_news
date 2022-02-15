@@ -9,7 +9,7 @@ Auswertungen von Beobachtungsdaten des Internetportals ornitho.de im Landkreis S
 
 ## Brutvögel in STA
 
-Aktualisierte [Liste der Brutvögel STA](Max_BZC_pro_Taxon_und_Jahr.xlsx) basierend auf Beobachtungen und Brutzeitcodes auf ornitho.de. Stand 31.12.2021.
+Aktualisierte (Stand 31.12.2021) [Liste der Brutvögel in STA](res/Max_BZC_pro_Taxon_und_Jahr.xlsx) basierend auf Beobachtungen und Brutzeitcodes auf ornitho.de.
 
-![](Arten_vs_Jahr.png)
+![](res/Arten_vs_Jahr.png)
 
