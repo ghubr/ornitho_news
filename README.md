@@ -4,12 +4,14 @@ des Internetportals ornitho.de im Landkreis Starnberg.
 
 
 
+
+
 ## Familienverhältnisse, oder "es geht wieder los!"
 Eulen und Spechte gehören zu den ersten Arten, auf die man sich im neuen Jahr wieder freuen kann. Ihr Auftreten - auch innerhalb der jeweiligen Familie - kann aber doch recht unterschiedlich sein, wie nachfolgende Darstellungen zeigen.
 ![Eulen](res/2D_weekly_probability_family_Strigidae.png)
 ![Spechte](res/2D_weekly_probability_family_Picidae.png)
 
-Gezeigt werden alle im Zeitraum 2016-2021 gemeldeten Arten. Je schwärzer, desto höher die Auftretenwahrscheinlichkeit in der entsprechenden Woche.
+Gezeigt werden alle im Zeitraum 2016-2021 gemeldeten Arten. Je dunkler, desto höher die Auftretenswahrscheinlichkeit in der entsprechenden Woche.
 
 
 ## Brutvögel in STA
