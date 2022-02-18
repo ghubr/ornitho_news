@@ -1,5 +1,6 @@
-# ornitho news
-Auswertungen von Beobachtungsdaten des Internetportals ornitho.de im Landkreis Starnberg.
+# Auswertungen von ornithologischen Beobachtungsdaten
+
+des Internetportals ornitho.de im Landkreis Starnberg.
 
 
 
@@ -8,7 +9,7 @@ Eulen und Spechte gehören zu den ersten Arten, auf die man sich im neuen Jahr w
 ![Eulen](res/2D_weekly_probability_family_Strigidae.png)
 ![Spechte](res/2D_weekly_probability_family_Picidae.png)
 
-
+Gezeigt werden alle im Zeitraum 2016-2021 gemeldeten Arten. Je schwärzer, desto höher die Auftretenwahrscheinlichkeit in der entsprechenden Woche.
 
 
 ## Brutvögel in STA
