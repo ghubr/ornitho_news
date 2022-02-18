@@ -4,7 +4,7 @@ des Internetportals ornitho.de im Landkreis Starnberg.
 
 
 
-## Es geht wieder los!
+## Familienverhältnisse, oder "es geht wieder los!"
 Eulen und Spechte gehören zu den ersten Arten, auf die man sich im neuen Jahr wieder freuen kann. Ihr Auftreten - auch innerhalb der jeweiligen Familie - kann aber doch recht unterschiedlich sein, wie nachfolgende Darstellungen zeigen.
 ![Eulen](res/2D_weekly_probability_family_Strigidae.png)
 ![Spechte](res/2D_weekly_probability_family_Picidae.png)
