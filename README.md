@@ -2,6 +2,8 @@
 
 des Internetportals www.ornitho.de im Landkreis Starnberg.
 
+Kommentare, Fragen und Vorschläge gerne  unter "Discussions" - "Kommentare und Anmerkungen"!
+
 
 ## Wochenende!
 An Samstagen und Sonntagen wird deutlich mehr beobachtet als unter der Woche. Dementsprechend verteilen sich die Datensätze auf www.ornitho.de unterschiedlich auf die Wochentage:
