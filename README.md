@@ -7,6 +7,7 @@ des Internetportals www.ornitho.de im Landkreis Starnberg.
 An Samstagen und Sonntagen wird deutlich mehr beobachtet als unter der Woche. Dementsprechend verteilen sich die Datensätze auf www.ornitho.de unterschiedlich auf die Wochentage:
 
 ![Eulen](res/Verteilung_Beob_vs_Wochentag.png)
+
 Diese Tatsache kann eine Rolle bei der Auswertung der Daten spielen. So ist eine Auswertung nach 7-Tages-Zeiträumen genauer, als wenn man das Jahr z.B. in Dekaden (ca. 10 Tage) unterteilt, weil so immer genau ein Wochenende pro Zeitintervall beiträgt.
 
 
