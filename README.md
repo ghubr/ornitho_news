@@ -1,11 +1,18 @@
 # Auswertungen von ornithologischen Beobachtungsdaten
 
-des Internetportals ornitho.de im Landkreis Starnberg.
+des Internetportals www.ornitho.de im Landkreis Starnberg.
+
+
+## Wochenende!
+An Samstagen und Sonntagen wird deutlich mehr beobachtet als unter der Woche. Dementsprechend verteilen sich die Datensätze auf www.ornitho.de unterschiedlich auf die Wochentage:
+
+![Eulen](res/Verteilung_Beob_vs_Wochentag.png)
+Diese Tatsache kann eine Rolle bei der Auswertung der Daten spielen. So ist eine Auswertung nach 7-Tages-Zeiträumen genauer, als wenn man das Jahr z.B. in Dekaden (ca. 10 Tage) unterteilt, weil so immer genau ein Wochenende pro Zeitintervall beiträgt.
 
 
 
 ## Zugrichtungen
-Bei der Dateineingabe auf ornitho.de kann man bei Zugbeobachtungen die ungefähre Zugrichtung eingeben. Aus vielen Meldungen kann man dann einen groben Zugvektor ableiten. 
+Bei der Dateineingabe auf www.ornitho.de kann man bei Zugbeobachtungen die ungefähre Zugrichtung eingeben. Aus vielen Meldungen kann man dann einen groben Zugvektor ableiten. 
 Interessanterweise bekommt man hier schon für relativ wenige Beobachtungen gute Ergebnisse. Daher bitte immer die Zugrichtung mit angeben!
 
 ![aaa](res/species_Kranich_Frühjahr_Kompass_der_Zugrichtung.png) ![aaa](res/species_Kranich_Herbst_Kompass_der_Zugrichtung.png)
@@ -26,10 +33,9 @@ Gezeigt werden alle im Zeitraum 2016-2021 gemeldeten Arten. Je dunkler, desto h�
 
 
 
-
 ## Brutvögel in STA
 
-Aktualisierte (Stand 31.12.2021) [Liste der Brutvögel in STA](res/Max_BZC_pro_Taxon_und_Jahr.xlsx) basierend auf Beobachtungen und Brutzeitcodes auf ornitho.de.
+Aktualisierte (Stand 31.12.2021) [Liste der Brutvögel in STA](res/Max_BZC_pro_Taxon_und_Jahr.xlsx) basierend auf Beobachtungen und Brutzeitcodes auf www.ornitho.de.
 
 ![](res/Arten_vs_Jahr.png)
 
